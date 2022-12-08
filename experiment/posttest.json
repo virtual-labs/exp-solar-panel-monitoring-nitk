@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What precautionary measures can be taken to prevent damaging of thermal sensors in a thermal camera?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Do not expose the camera to laser beam",
+        "b": "Do Not expose the camera to sunlight",
+        "c": "Do not expose the camera to lava",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Too much warmth, humidity, clouds, rain or snowfall can impede to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thermal camera position",
+        "b": "Thermal camera capturing",
+        "c": "Thermal camera accuracy",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "IP rating of drones determines which of the following parameters?",
+      "answers": {
+        "a": "Motor quality and resistance to rain and dust",
+        "b": "Strength of drone",
+        "c": "Drone safety",
+        "d": "Image quality of the drone"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A surveillance system that relies on aircraft periodically broadcasting its position as determined by satellite navigation is called _______",
+      "answers": {
+        "a": "RTK",
+        "b": "ADS-B",
+        "c": "PPK",
+        "d": "ATC "
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A ground based hardware and software that allow UAV operators to communicate and control a drone is called  _________",
+      "answers": {
+        "a": "DGPS",
+        "b": "GCS",
+        "c": "D-RTK",
+        "d": "FPV"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
