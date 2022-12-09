@@ -843,7 +843,7 @@ else if(simsubscreennum==11){
 	document.getElementById("11-1").style.visibility="visible";
 	document.getElementById("button1").style.visibility="visible";
 	myInt=setInterval(function(){animatearrow();},500);	
-	document.getElementById('arrow1').style="visibility:visible; left:45px; top:142px; position:absolute;height:30px;";
+	document.getElementById('arrow1').style="visibility:visible; left:45px; top:153px; position:absolute;height:30px;";
 	document.getElementById('arrow1').style.WebkitTransform="rotate(-90deg)";
 	document.getElementById('arrow1').style.msTransform="rotate(-90deg)";
 	document.getElementById('arrow1').style.transform="rotate(-90deg)";
@@ -855,7 +855,7 @@ else if(simsubscreennum==11){
 		document.getElementById("11-2").style.animation = "zoomImage 1s forwards";
 
 	myInt=setInterval(function(){animatearrow();},500);	
-	document.getElementById('arrow1').style="visibility:visible; left:236px; top:142px; position:absolute;height:30px;";
+	document.getElementById('arrow1').style="visibility:visible; left:236px; top:162px; position:absolute;height:30px;";
 	document.getElementById('arrow1').style.WebkitTransform="rotate(-90deg)";
 	document.getElementById('arrow1').style.msTransform="rotate(-90deg)";
 	document.getElementById('arrow1').style.transform="rotate(-90deg)";
@@ -866,11 +866,11 @@ else if(simsubscreennum==11){
 		document.getElementById("button2").style.visibility="hidden";
 		document.getElementById("11-3").style.visibility="visible";	
 		document.getElementById("11-3").style.animation = "zoomImage1 1s forwards";
-		myInt=setInterval(function(){animatearrow();},500);	
-	document.getElementById('arrow1').style="visibility:visible; left:236px; top:336px; position:absolute;height:30px;";
-	document.getElementById('arrow1').style.WebkitTransform="rotate(-90deg)";
-	document.getElementById('arrow1').style.msTransform="rotate(-90deg)";
-	document.getElementById('arrow1').style.transform="rotate(-90deg)";
+		// myInt=setInterval(function(){animatearrow();},500);	
+	// document.getElementById('arrow1').style="visibility:visible; left:236px; top:336px; position:absolute;height:30px;";
+	// document.getElementById('arrow1').style.WebkitTransform="rotate(-90deg)";
+	// document.getElementById('arrow1').style.msTransform="rotate(-90deg)";
+	// document.getElementById('arrow1').style.transform="rotate(-90deg)";
 	document.getElementById("button3").style.visibility="visible";
 	document.getElementById('button3').onclick=function(){
 		myStopFunction();

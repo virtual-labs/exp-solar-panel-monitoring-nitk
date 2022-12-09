@@ -238,7 +238,7 @@
   @keyframes zoomOutDrone1{
 	0% {
 	  left: 34px;
-	  top: 77px;
+	  top: 100px;
 	  transform: scale(1);
 	  opacity: 1;
 	}
