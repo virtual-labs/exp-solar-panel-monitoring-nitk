@@ -8,7 +8,7 @@
 <tr style="background-color: white">
 <td>
 <ol>
-<li>Link your references in hereLillesand, Thomas, Ralph W. Kiefer, and Jonathan Chipman. Remote sensing and image interpretation. John Wiley & Sons, 2015.</li>
+<li>Lillesand, Thomas, Ralph W. Kiefer, and Jonathan Chipman. Remote sensing and image interpretation. John Wiley & Sons, 2015.</li>
 <li>Prakash, Anupma. "Thermal remote sensing: concepts, issues and applications." International Archives of Photogrammetry and Remote Sensing 33, no. B1; PART 1 (2000): 239-243.</li>
 <li>Gade, Rikke, and Thomas B. Moeslund. "Thermal cameras and applications: a survey." Machine vision and applications 25, no. 1 (2014): 245-262.</li>
 <li>Harris, Andrew. Thermal remote sensing of active volcanoes: a user's manual. Cambridge university press, 2013.</li>
