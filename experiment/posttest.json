@@ -33,7 +33,7 @@
         "d": ""
       },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
       "question": "IP rating of drones determines which of the following parameters?",
@@ -67,7 +67,7 @@
         "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "advanced"
     },
     {
       "question": "A ground based hardware and software that allow UAV operators to communicate and control a drone is called  _________",
@@ -84,7 +84,7 @@
         "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     }
   ]
 }
