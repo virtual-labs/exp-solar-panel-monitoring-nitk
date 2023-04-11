@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The best gimbal angle for thermal inspection of a solar panel is?",
+      "answers": {
+        "a": "60-90",
+        "b": "70-90",
+        "c": "80-90",
+        "d": "45-60"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a thermal image which color represents the objects at room temperature?",
+      "answers": {
+        "a": "GREEN",
+        "b": "RED",
+        "c": "YELLOW",
+        "d": "ORANGE"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In solar panel inspection using a thermal camera, the defective cells are represented by which color?",
+      "answers": {
+        "a": "PURPLE",
+        "b": "BRIGHT ORANGE",
+        "c": "BRIGHT YELLOW",
+        "d": "BLACK"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not an application of thermal drone imagery?",
+      "answers": {
+        "a": "Surveillance",
+        "b": "Electrical Inspection",
+        "c": "Road Inspection",
+        "d": "Railway Inspection"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "What factors can affect the accuracy of temperature detection?",
+      "answers": {
+        "a": "The reflection of objects on metal surfaces will result in lower temperature detection than the true value",
+        "b": "The humidity and temperature of the air",
+        "c": "All of the above",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    }
+  ]
+}
