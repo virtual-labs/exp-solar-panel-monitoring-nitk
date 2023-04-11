@@ -10,10 +10,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava",
+        "b": "Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava",
+        "c": "Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava",
+        "d": "Correct Answers. Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations.",
+        "b": "Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations.",
+        "c": "Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations.",
+        "d": "Correct Answers. Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -44,10 +44,10 @@
         "d": "Image quality of the drone"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct Answer. IP rating of drones determines Motor quality and resistance to rain and dust.",
+        "b": "IP rating of drones determines Motor quality and resistance to rain and dust.",
+        "c": "IP rating of drones determines Motor quality and resistance to rain and dust.",
+        "d": "IP rating of drones determines Motor quality and resistance to rain and dust."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "ATC "
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "RTK is Real Time Kinematic",
+        "b": "Correct Answer. ADS-B is Automatic Dependent Surveillance–Broadcast",
+        "c": "PPK is Post Processed Kinematic",
+        "d": "ATC is Air Traffic Control"
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -78,10 +78,10 @@
         "d": "FPV"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "DGPS is Differential Global Positioning Systems",
+        "b": "Correct Answer. GCS is Ground Control Stations",
+        "c": "D-RTK (or Dual-RTK) refers to a system that uses two GPS receivers on the drone",
+        "d": "FPV is First Person View"
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
