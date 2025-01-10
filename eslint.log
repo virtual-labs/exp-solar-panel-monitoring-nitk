@@ -1,0 +1,163 @@
+
+/home/runner/work/exp-solar-panel-monitoring-nitk/exp-solar-panel-monitoring-nitk/experiment/simulation/js/script.js
+     1:5   warning  'released' is assigned a value but never used      no-unused-vars
+     2:5   warning  'v' is assigned a value but never used             no-unused-vars
+     3:10  warning  'navNext' is defined but never used                no-unused-vars
+     5:6   warning  'temp' is not defined                              no-undef
+     5:13  warning  'temp' is not defined                              no-undef
+     5:22  warning  'temp' is not defined                              no-undef
+     7:36  warning  'temp' is not defined                              no-undef
+     9:2   warning  'simsubscreennum' is not defined                   no-undef
+    10:35  warning  'simsubscreennum' is not defined                   no-undef
+    24:16  warning  'myInt' is not defined                             no-undef
+    29:4   warning  'simsubscreennum' is not defined                   no-undef
+    30:2   warning  'myInt' is not defined                             no-undef
+    45:4   warning  'myInt' is not defined                             no-undef
+    67:9   warning  'simsubscreennum' is not defined                   no-undef
+    70:2   warning  'myInt' is not defined                             no-undef
+    89:4   warning  'myInt' is not defined                             no-undef
+   103:4   warning  'myInt' is not defined                             no-undef
+   124:9   warning  'simsubscreennum' is not defined                   no-undef
+   127:2   warning  'myInt' is not defined                             no-undef
+   166:9   warning  'simsubscreennum' is not defined                   no-undef
+   171:2   warning  'myInt' is not defined                             no-undef
+   183:2   warning  'myInt' is not defined                             no-undef
+   195:2   warning  'myInt' is not defined                             no-undef
+   207:2   warning  'myInt' is not defined                             no-undef
+   222:2   warning  'myInt' is not defined                             no-undef
+   244:9   warning  'simsubscreennum' is not defined                   no-undef
+   247:2   warning  'myInt' is not defined                             no-undef
+   263:2   warning  'myInt' is not defined                             no-undef
+   274:2   warning  'myInt' is not defined                             no-undef
+   289:2   warning  'myInt' is not defined                             no-undef
+   315:9   warning  'simsubscreennum' is not defined                   no-undef
+   317:2   warning  'myInt' is not defined                             no-undef
+   363:9   warning  'simsubscreennum' is not defined                   no-undef
+   369:2   warning  'myInt' is not defined                             no-undef
+   393:9   warning  'simsubscreennum' is not defined                   no-undef
+   401:1   warning  'myInt' is not defined                             no-undef
+   418:2   warning  'myInt' is not defined                             no-undef
+   429:2   warning  'myInt' is not defined                             no-undef
+   439:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   440:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   441:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   449:9   warning  'simsubscreennum' is not defined                   no-undef
+   454:2   warning  'myInt' is not defined                             no-undef
+   524:9   warning  'simsubscreennum' is not defined                   no-undef
+   534:5   warning  'myInt' is not defined                             no-undef
+   579:22  warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   584:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   585:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   586:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   587:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   593:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   594:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   595:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   596:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   597:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   598:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   599:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   600:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   680:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   681:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   682:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   683:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   745:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   746:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   767:7   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   777:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   778:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   781:6   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   789:3   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   811:9   warning  'simsubscreennum' is not defined                   no-undef
+   845:2   warning  'myInt' is not defined                             no-undef
+   857:2   warning  'myInt' is not defined                             no-undef
+   883:10  warning  'simsubscreennum' is not defined                   no-undef
+   890:10  warning  'hidedialog' is defined but never used             no-unused-vars
+   895:10  warning  'hidedialog1' is defined but never used            no-unused-vars
+   920:10  warning  'hidedialog2' is defined but never used            no-unused-vars
+   926:10  warning  'hidedialog3' is defined but never used            no-unused-vars
+   939:2   warning  'myInt' is not defined                             no-undef
+   947:10  warning  'hidedialog8' is defined but never used            no-unused-vars
+   955:10  warning  'myFunction' is defined but never used             no-unused-vars
+   962:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   970:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   978:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   982:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   984:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+   987:5   warning  'y' is defined but never used                      no-unused-vars
+   988:10  warning  'handleFlightSelection' is defined but never used  no-unused-vars
+   999:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1005:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1011:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1015:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1017:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1021:12  warning  'change1' is defined but never used                no-unused-vars
+  1025:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1027:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1042:12  warning  'up' is defined but never used                     no-unused-vars
+  1044:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1053:5   warning  'myVar' is assigned a value but never used         no-unused-vars
+  1055:12  warning  'loadFunction' is defined but never used           no-unused-vars
+  1066:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1067:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1068:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1069:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1071:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1071:4   warning  Move function declaration to function body root    no-inner-declarations
+  1073:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1074:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1076:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1077:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1078:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1080:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1086:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1087:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1088:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1089:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1090:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1090:4   warning  Move function declaration to function body root    no-inner-declarations
+  1092:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1093:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1095:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1096:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1097:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1099:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1104:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1105:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1106:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1107:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1109:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1109:4   warning  Move function declaration to function body root    no-inner-declarations
+  1111:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1112:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1114:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1115:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1116:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1118:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1121:12  warning  'move2' is defined but never used                  no-unused-vars
+  1123:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1124:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1125:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1126:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1128:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1128:4   warning  Move function declaration to function body root    no-inner-declarations
+  1130:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1131:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1133:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1134:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1135:2   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1137:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1161:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1163:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1167:12  warning  'check_value' is defined but never used            no-unused-vars
+  1170:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1180:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1203:12  warning  'checkClicked' is defined but never used           no-unused-vars
+  1206:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  1209:12  warning  'content' is defined but never used                no-unused-vars
+  1212:12  warning  'res' is defined but never used                    no-unused-vars
+  1219:12  warning  'setTitle' is defined but never used               no-unused-vars
+
+✖ 158 problems (0 errors, 158 warnings)
+
