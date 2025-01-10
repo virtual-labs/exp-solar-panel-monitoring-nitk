@@ -1,1 +1,1 @@
-## Solar Panel Monitoring using Datas from UAV with Thermal Camera
+## Solar Panel monitoring using datas from UAV with thermal camera
