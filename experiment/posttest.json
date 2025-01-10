@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A surveillance system that relies on aircraft periodically broadcasting its position as determined by satellite navigation is called _______",
+      "question": "A surveillance system that relies on aircraft periodically broadcasting its position as determined by satellite navigation is called ________",
       "answers": {
         "a": "RTK",
         "b": "ADS-B",
@@ -62,7 +62,7 @@
       },
       "explanations": {
         "a": "RTK is Real Time Kinematic",
-        "b": "Correct Answer. ADS-B is Automatic Dependent Surveillance–Broadcast",
+        "b": "Correct Answer. ADS-B is Automatic Dependent Surveillance - Broadcast",
         "c": "PPK is Post Processed Kinematic",
         "d": "ATC is Air Traffic Control"
       },
@@ -70,7 +70,7 @@
       "difficulty": "advanced"
     },
     {
-      "question": "A ground based hardware and software that allow UAV operators to communicate and control a drone is called  _________",
+      "question": "A ground based hardware and software that allow UAV operators to communicate and control a drone is called ________",
       "answers": {
         "a": "DGPS",
         "b": "GCS",
