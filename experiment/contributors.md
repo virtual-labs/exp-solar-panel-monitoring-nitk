@@ -6,15 +6,12 @@
 | :--: | :-------------: | :-------: | :-----------------------------------------------: |
 |  1   | Dr Pruthviraj U |   NITK    | Department of Water Resources & Ocean Engineering |
 
-### Lab Developers:
 
-| SNo. |  Name   | Institute |
-| :--: | :-----: | :-------: |
-|  1   | Shwetha |   NITK    |
 
-### Content Developers:
+### Contributors:
 
 | SNo. |      Name       | Institute |
 | :--: | :-------------: | :-------: |
 |  1   | Shamanth Gowda  |   NITK    |
-|  1   | Aishwarya Hegde |   NITK    |
+|  2   | Aishwarya Hegde |   NITK    |
+|  3  | Shwetha | NITK  |
