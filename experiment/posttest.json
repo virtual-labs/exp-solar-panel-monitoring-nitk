@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What precautionary measures can be taken to prevent damaging of thermal sensors in a thermal camera?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Do not expose the camera to laser beam",
+        "b": "Do Not expose the camera to sunlight",
+        "c": "Do not expose the camera to lava",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava",
+        "b": "Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava",
+        "c": "Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava",
+        "d": "Correct Answers. Thermal sensors in a thermal camera is sensitive to sunlight, laser beam and lava"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Too much warmth, humidity, clouds, rain or snowfall can impede to",
+      "answers": {
+        "a": "Thermal camera position",
+        "b": "Thermal camera capturing",
+        "c": "Thermal camera accuracy",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations.",
+        "b": "Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations.",
+        "c": "Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations.",
+        "d": "Correct Answers. Thermal camera is capable to function in Low-Light Scenarios and is Immune to Visual Limitations."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "IP rating of drones determines which of the following parameters?",
+      "answers": {
+        "a": "Motor quality and resistance to rain and dust",
+        "b": "Strength of drone",
+        "c": "Drone safety",
+        "d": "Image quality of the drone"
+      },
+      "explanations": {
+        "a": "Correct Answer. IP rating of drones determines Motor quality and resistance to rain and dust.",
+        "b": "IP rating of drones determines Motor quality and resistance to rain and dust.",
+        "c": "IP rating of drones determines Motor quality and resistance to rain and dust.",
+        "d": "IP rating of drones determines Motor quality and resistance to rain and dust."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A surveillance system that relies on aircraft periodically broadcasting its position as determined by satellite navigation is called ________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "RTK",
+        "b": "ADS-B",
+        "c": "PPK",
+        "d": "ATC "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "RTK is Real Time Kinematic",
+        "b": "Correct Answer. ADS-B is Automatic Dependent Surveillance - Broadcast",
+        "c": "PPK is Post Processed Kinematic",
+        "d": "ATC is Air Traffic Control"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "A ground based hardware and software that allow UAV operators to communicate and control a drone is called ________",
+      "answers": {
+        "a": "DGPS",
+        "b": "GCS",
+        "c": "D-RTK",
+        "d": "FPV"
+      },
+      "explanations": {
+        "a": "DGPS is Differential Global Positioning Systems",
+        "b": "Correct Answer. GCS is Ground Control Stations",
+        "c": "D-RTK (or Dual-RTK) refers to a system that uses two GPS receivers on the drone",
+        "d": "FPV is First Person View"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
